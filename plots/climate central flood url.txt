@@ -1,0 +1,1 @@
+https://coastal.climatecentral.org/map/10/-2.4282/51.4949/?theme=sea_level_rise&map_type=year&basemap=roadmap&contiguous=true&elevation_model=best_available&forecast_year=2050&pathway=ssp3rcp70&percentile=p50&refresh=true&return_level=return_level_1&rl_model=gtsr&slr_model=ipcc_2021_med
